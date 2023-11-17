@@ -1,0 +1,9 @@
+export { default as SMSQueue } from './sms.queue';
+export { default as MailQueue } from './mail.queue';
+export { default as BaixaParcelaQueue } from './baixaParcela.queue';
+export { default as OcorrenciaQueue } from './ocorrencia.queue';
+export { default as BoletoQueue } from './boleto.queue';
+export { default as LogContatoQueue } from './logContato.queue';
+export { default as WhatsappQueue } from './whatsapp.queue';
+export { default as DestroyContractQueue } from './destroyContract.queue';
+export { default as CartaoCreditoQueue } from './cartaoCredito.queue';
